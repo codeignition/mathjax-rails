@@ -1,4 +1,4 @@
-# MathJax-Rails
+# MathJax-Rails forked from official MathJax-Rails which is a trimmed Version of Mathjax with Rails 4 including only HTML-CSS and TeX Options
 
 We are living in an age, where displaying math on web pages is never hard, thanks to the great work of [MathJax](https://github.com/mathjax/MathJax). 
 
